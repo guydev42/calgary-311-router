@@ -95,7 +95,7 @@ project_11_311_service_request_router/
 
 ```bash
 # Clone the repository
-git clone https://github.com/olag-portfolio/calgary-311-router.git
+git clone https://github.com/guydev42/calgary-311-router.git
 cd calgary-311-router
 
 # Install dependencies
@@ -151,5 +151,5 @@ Data provided by the [City of Calgary Open Data Portal](https://data.calgary.ca/
 </p>
 
 <p align="center">
-  Built by <a href="https://github.com/olag-portfolio">Ola G</a>
+  Built by <a href="https://github.com/guydev42">Ola K.</a>
 </p>
